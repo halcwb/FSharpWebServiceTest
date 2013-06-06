@@ -7,7 +7,7 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Services", "FSharpWebServic
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Contracts", "FSharpWebServiceTest\Contracts\Contracts.fsproj", "{2BA2E92E-A3FB-4999-9FA2-0F9CA749A76B}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Interactive", "Interactive\Interactive.fsproj", "{53582208-DC0D-41D4-AA9C-6752456951F8}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Scripts", "Interactive\Scripts.fsproj", "{53582208-DC0D-41D4-AA9C-6752456951F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

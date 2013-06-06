@@ -35,8 +35,7 @@
   <Import Project="$(MSBuildExtensionsPath32)\..\Microsoft F#\v4.0\Microsoft.FSharp.Targets" Condition="(!Exists('$(MSBuildExtensionsPath32)\..\Microsoft SDKs\F#\3.0\Framework\v4.0\Microsoft.FSharp.Targets'))" />
   <ItemGroup>
     <Compile Include="Service1.svc.fs" />
-    <Compile Include="Test.fs" />
-    <None Include="Script.fsx" />
+    <None Include="Services.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
